@@ -1,4 +1,36 @@
-# Awesome Extensions for Viusal Stuido 2022 
+# Awesome Extensions for Viusal Stuido 2022
+
+- [Awesome Extensions for Viusal Stuido 2022](#awesome-extensions-for-viusal-stuido-2022)
+  - [AI - ChatGPT](#ai---chatgpt)
+  - [Git \& Github](#git--github)
+  - [Code Snippets](#code-snippets)
+  - [Testing](#testing)
+  - [Code Coverage](#code-coverage)
+  - [HTML \& JavaScript](#html--javascript)
+  - [Task Runner \& Web Compiler](#task-runner--web-compiler)
+  - [Code Alignment - Align Assignment](#code-alignment---align-assignment)
+  - [Format On Save](#format-on-save)
+  - [Entity Framework](#entity-framework)
+  - [Database](#database)
+  - [Comment](#comment)
+  - [Highlighter](#highlighter)
+  - [Analyzers](#analyzers)
+    - [Security Analyzers](#security-analyzers)
+  - [Productivity](#productivity)
+  - [Error](#error)
+  - [Project Template](#project-template)
+  - [NuGet](#nuget)
+  - [Visualizers](#visualizers)
+  - [REST API Client Code Generator](#rest-api-client-code-generator)
+  - [Serialization Attributor](#serialization-attributor)
+  - [Json](#json)
+  - [Projects/Dependencies Graph.](#projectsdependencies-graph)
+  - [Upgrade and Port .NET Famework to .NET Core](#upgrade-and-port-net-famework-to-net-core)
+  - [Themes](#themes)
+  - [Free Trial](#free-trial)
+  - [Not Categorized](#not-categorized)
+    - [Editor](#editor)
+    - [Others](#others)
 
 ## AI - ChatGPT
 https://marketplace.visualstudio.com/items?itemName=TimChen44.CCodeAI (No API Key needed)
@@ -249,3 +281,7 @@ https://marketplace.visualstudio.com/items?itemName=SergeyVlasov.ContinuousForma
 https://marketplace.visualstudio.com/items?itemName=vs-publisher-1193210.IncrediBuild [https://www.incredibuild.com/product/windows]
 https://marketplace.visualstudio.com/items?itemName=VladimirChirikov.GoToDnSpy
 https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelinesPreview
+
+## Todo
+- [ ] Categorize the remainings
+- [ ] Convert urls to links with the name of extensions
