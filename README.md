@@ -55,9 +55,9 @@
 - https://marketplace.visualstudio.com/items?itemName=mrluje.vs-commitizen
 
 ## Code Snippets
+- https://marketplace.visualstudio.com/items?itemName=jsakamoto.CMethodsCodeSnippets
 - https://marketplace.visualstudio.com/items?itemName=JamesPfluger.MoreSnippets
 - https://marketplace.visualstudio.com/items?itemName=josefpihrt.Snippetica
-- https://marketplace.visualstudio.com/items?itemName=jsakamoto.CMethodsCodeSnippets
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HTMLSnippetPack
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptSnippetPack
 - https://marketplace.visualstudio.com/items?itemName=jsakamoto.xUnitCodeSnippets
