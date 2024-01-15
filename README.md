@@ -224,7 +224,7 @@
 - https://marketplace.visualstudio.com/items?itemName=SergeyVlasov.FixFileEncoding
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorEnhancements64
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode 🟢
 - https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer 🟢
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CleanSolution
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks2022 🟢
