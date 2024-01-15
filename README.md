@@ -33,17 +33,17 @@
 
 ## AI - ChatGPT
 - https://marketplace.visualstudio.com/items?itemName=TimChen44.CCodeAI (No API Key needed)
-- https://marketplace.visualstudio.com/items?itemName=dliedke.ChatGPTExtension (No API Key needed)
+- https://marketplace.visualstudio.com/items?itemName=dliedke.ChatGPTExtension (No API Key needed) 🟢
 - https://marketplace.visualstudio.com/items?itemName=ekondur.AI-Studio
 - https://marketplace.visualstudio.com/items?itemName=adospace.AskChatGPT
 - https://marketplace.visualstudio.com/items?itemName=IguanaTechnology.ChatGPT
 - https://marketplace.visualstudio.com/items?itemName=MerryYellow.CodeLens2GPT
 - https://marketplace.visualstudio.com/items?itemName=MerryYellow.Comment2GPT
 - https://marketplace.visualstudio.com/items?itemName=jefferson-pires.VisualChatGPTStudio
-- https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-visual-studio
+- https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-visual-studio 🟢
 - https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSGitHubCopilot
-- https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc
+- https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc 🟢
 
 ## Git & Github
 - https://marketplace.visualstudio.com/items?itemName=LaurentKempe.GitDiffMargin
@@ -113,28 +113,28 @@
 - https://marketplace.visualstudio.com/items?itemName=SolvSoftware.SSDT-Continuous-Deployment-Project-Template
 
 ## Comment
-- https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc
-- https://marketplace.visualstudio.com/items?itemName=OmarRwemi.BetterCommentsVS2022
+- https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc 🟢
+- https://marketplace.visualstudio.com/items?itemName=OmarRwemi.BetterCommentsVS2022 🟢
 
 ## Highlighter
-- https://marketplace.visualstudio.com/items?itemName=ygoe.SelectionTodoHighlighter
+- https://marketplace.visualstudio.com/items?itemName=ygoe.SelectionTodoHighlighter 🟢
 - https://marketplace.visualstudio.com/items?itemName=TrungKienPhan.WordHighlight-18439
 
 ## Analyzers
-- https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022
-- https://marketplace.visualstudio.com/items?itemName=SonarSource.SonarLintforVisualStudio2022
-- https://marketplace.visualstudio.com/items?itemName=PRIYANSHUAGRAWAL92.AsyncMethodNameFixer
-- https://marketplace.visualstudio.com/items?itemName=SemihOkur.AsyncFixer2022
+- https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022 🟢
+- https://marketplace.visualstudio.com/items?itemName=SonarSource.SonarLintforVisualStudio2022 🟢
+- https://marketplace.visualstudio.com/items?itemName=PRIYANSHUAGRAWAL92.AsyncMethodNameFixer 🟢
+- https://marketplace.visualstudio.com/items?itemName=SemihOkur.AsyncFixer2022 🟢
 - https://marketplace.visualstudio.com/items?itemName=Suchiman.SerilogAnalyzertudio2022
 - https://marketplace.visualstudio.com/items?itemName=carlreinke.ExceptionAnalyzers2022 [https://www.nuget.org/packages/Tetractic.CodeAnalysis.ExceptionAnalyzers]
 
 ### Security Analyzers
-- https://marketplace.visualstudio.com/items?itemName=PumaSecurity.PumaScan2022
-- https://marketplace.visualstudio.com/items?itemName=JaroslavLobacevski.SecurityCodeScanVS2019
+- https://marketplace.visualstudio.com/items?itemName=PumaSecurity.PumaScan2022 🟢
+- https://marketplace.visualstudio.com/items?itemName=JaroslavLobacevski.SecurityCodeScanVS2019 🟢
 - https://marketplace.visualstudio.com/items?itemName=MS-CST-E.vscode-devskim
 
 ## Productivity
-- https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaidVS2022
+- https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaidVS2022 🟢
 - https://marketplace.visualstudio.com/items?itemName=MichaelKissBG8.Supercharger22
 
 ## Error
@@ -225,11 +225,11 @@
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorEnhancements64
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode
-- https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer
+- https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer 🟢
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CleanSolution
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks2022
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks2022 🟢
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.RainbowBraces
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.RainbowBraces 🟢
 - https://marketplace.visualstudio.com/items?itemName=chingucoding.IndentRainbow
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile64
 - https://marketplace.visualstudio.com/items?itemName=JaredParMSFT.VsVim2022Preview
@@ -241,7 +241,7 @@
 - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs-2022
 - https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager
 - https://marketplace.visualstudio.com/items?itemName=BotBuilder.botbuilderv4
-- https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2022andLater
+- https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2022andLater 🟢
 - https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager
 - https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.VisualStudioEdgeDevTools
 - https://marketplace.visualstudio.com/items?itemName=ErlandR.ReAttach
@@ -251,19 +251,19 @@
 - https://marketplace.visualstudio.com/items?itemName=HRai.AutoSaveFile
 - https://marketplace.visualstudio.com/items?itemName=Failwyn.BundlerMinifier64
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.AlignAssignment2022
-- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.SolutionErrorVisualizer2022
-- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.FixMixedTabs2022
-- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MatchMargin2022
+- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.SolutionErrorVisualizer2022 🟢
+- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.FixMixedTabs2022 🟢
+- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MatchMargin2022 🟢
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.TimeStampMargin2022
-- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2022
+- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2022 🟢
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MiddleClickScroll2022
-- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.Double-ClickMaximize2022
-- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.PeekHelp2022
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DeveloperNews2022
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer64bit
+- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.Double-ClickMaximize2022 🟢
+- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.PeekHelp2022 🟢
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DeveloperNews2022 🟢
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer64bit 🟢
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.SolutionColors
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespace64
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine64
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespace64 🟢
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine64 🟢
 - https://marketplace.visualstudio.com/items?itemName=Catlightio.CatLight
 - https://marketplace.visualstudio.com/items?itemName=DevartSoftware.ReviewAssistant-CodeReviewTool
 - https://marketplace.visualstudio.com/items?itemName=AdamRDriscoll.PowerShellToolsVS2022
