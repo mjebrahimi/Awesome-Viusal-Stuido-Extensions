@@ -31,6 +31,9 @@
   - [Editor](#editor)
   - [Others](#others)
 
+### Legend
+- 🟢 Must Have
+
 ## AI - ChatGPT
 - https://marketplace.visualstudio.com/items?itemName=TimChen44.CCodeAI (No API Key needed)
 - https://marketplace.visualstudio.com/items?itemName=dliedke.ChatGPTExtension (No API Key needed) 🟢
@@ -146,7 +149,7 @@
 - https://marketplace.visualstudio.com/items?itemName=VolkanCeylan.SereneSerenityApplicationTemplate
 
 ## NuGet
-- https://marketplace.visualstudio.com/items?itemName=SamirBoulema.NuGetMonitor
+- https://marketplace.visualstudio.com/items?itemName=SamirBoulema.NuGetMonitor 🟢
 - https://marketplace.visualstudio.com/items?itemName=nti-de.NuGet
 
 ## Visualizers
