@@ -1,7 +1,7 @@
 # Awesome Extensions for Viusal Stuido 2022
 
 - [AI - ChatGPT](#ai---chatgpt)
-- [Git \& Github](#git--github)
+- [Git \& GitHub](#git--github)
 - [Code Snippets](#code-snippets)
 - [Testing](#testing)
 - [Code Coverage](#code-coverage)
@@ -24,7 +24,7 @@
 - [Serialization Attributor](#serialization-attributor)
 - [Json](#json)
 - [Projects/Dependencies Graph.](#projectsdependencies-graph)
-- [Upgrade and Port .NET Famework to .NET Core](#upgrade-and-port-net-famework-to-net-core)
+- [Upgrade and Port .NET Framework to .NET Core](#upgrade-and-port-net-famework-to-net-core)
 - [Themes](#themes)
 - [Free Trial](#free-trial)
 - [Not Categorized](#not-categorized)
@@ -35,43 +35,24 @@
 - 🟢 Must Have
 
 ## AI - ChatGPT
-- https://marketplace.visualstudio.com/items?itemName=TimChen44.CCodeAI (No API Key needed)
+- https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-visual-studio 🟢
 - https://marketplace.visualstudio.com/items?itemName=dliedke.ChatGPTExtension (No API Key needed) 🟢
+- https://marketplace.visualstudio.com/items?itemName=TimChen44.CCodeAI (No API Key needed)
 - https://marketplace.visualstudio.com/items?itemName=ekondur.AI-Studio
 - https://marketplace.visualstudio.com/items?itemName=adospace.AskChatGPT
 - https://marketplace.visualstudio.com/items?itemName=IguanaTechnology.ChatGPT
 - https://marketplace.visualstudio.com/items?itemName=MerryYellow.CodeLens2GPT
 - https://marketplace.visualstudio.com/items?itemName=MerryYellow.Comment2GPT
 - https://marketplace.visualstudio.com/items?itemName=jefferson-pires.VisualChatGPTStudio
-- https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-visual-studio 🟢
 - https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs 🟢
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSGitHubCopilot 🟢
 - https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc 🟢
-
-## Git & Github
-- https://marketplace.visualstudio.com/items?itemName=LaurentKempe.GitDiffMargin
-- https://marketplace.visualstudio.com/items?itemName=neuecc.OpenonGitHub
-- https://marketplace.visualstudio.com/items?itemName=TimHeuer.GitHubActionsVS
-- https://marketplace.visualstudio.com/items?itemName=GitExtensionsApp.VS2022
-- https://marketplace.visualstudio.com/items?itemName=vs-publisher-57624.GitFlowforVisualStudio2022
-- https://marketplace.visualstudio.com/items?itemName=QubicaAMF.GitFlowAVH-2022
-- https://marketplace.visualstudio.com/items?itemName=mrluje.vs-commitizen
-
-## Code Snippets
-- https://marketplace.visualstudio.com/items?itemName=jsakamoto.CMethodsCodeSnippets
-- https://marketplace.visualstudio.com/items?itemName=JamesPfluger.MoreSnippets
-- https://marketplace.visualstudio.com/items?itemName=josefpihrt.Snippetica
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HTMLSnippetPack
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptSnippetPack
-- https://marketplace.visualstudio.com/items?itemName=jsakamoto.xUnitCodeSnippets
-- https://marketplace.visualstudio.com/items?itemName=vs-publisher-2795.SnippetDesigner2022
-- https://marketplace.visualstudio.com/items?itemName=AlessandroDelSole.CodeSnippetStudio2022
 
 ## Testing
 - https://marketplace.visualstudio.com/items?itemName=jsakamoto.xUnitCodeSnippets
 - https://marketplace.visualstudio.com/items?itemName=RandomEngy.UnitTestBoilerplateGenerator
 - https://marketplace.visualstudio.com/items?itemName=NUnitDevelopers.nunittestgeneratorextension2022
-- https://marketplace.visualstudio.com/items?itemName=TechTalkSpecFlowTeam.SpecFlowForVisualStudio2022
+- https://marketplace.visualstudio.com/items?itemName=TechTalkSpecFlowTeam.SpecFlowForVisualStudio2022 🟢
 - https://marketplace.visualstudio.com/items?itemName=OsirisTerje.Runsettings-19151
 
 ## Code Coverage
@@ -87,17 +68,6 @@
 - https://marketplace.visualstudio.com/items?itemName=RichNewman.TypeScriptAnalyzerEslintPrettier
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GulpSnippetPack
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GruntSnippetPack
-
-## Task Runner & Web Compiler
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebPackTaskRunner
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.NpmTaskRunner64
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommandTaskRunner64
-- https://marketplace.visualstudio.com/items?itemName=Failwyn.WebCompiler64
-
-## Code Alignment - Align Assignment
-- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.AlignAssignment2022
-- https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment
-
 ## Format On Save
 - https://marketplace.visualstudio.com/items?itemName=WinstonFeng.VSFormatOnSave2022
 - https://marketplace.visualstudio.com/items?itemName=mynkow.FormatdocumentonSave
@@ -170,11 +140,40 @@
 - https://marketplace.visualstudio.com/items?itemName=fwo-code.JsonPropAnalyz
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JSONSchemaGenerator2
 
+## Git & GitHub
+- https://marketplace.visualstudio.com/items?itemName=LaurentKempe.GitDiffMargin
+- https://marketplace.visualstudio.com/items?itemName=neuecc.OpenonGitHub
+- https://marketplace.visualstudio.com/items?itemName=TimHeuer.GitHubActionsVS
+- https://marketplace.visualstudio.com/items?itemName=GitExtensionsApp.VS2022
+- https://marketplace.visualstudio.com/items?itemName=vs-publisher-57624.GitFlowforVisualStudio2022
+- https://marketplace.visualstudio.com/items?itemName=QubicaAMF.GitFlowAVH-2022
+- https://marketplace.visualstudio.com/items?itemName=mrluje.vs-commitizen
+
+## Code Snippets
+- https://marketplace.visualstudio.com/items?itemName=jsakamoto.CMethodsCodeSnippets
+- https://marketplace.visualstudio.com/items?itemName=JamesPfluger.MoreSnippets
+- https://marketplace.visualstudio.com/items?itemName=josefpihrt.Snippetica
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HTMLSnippetPack
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptSnippetPack
+- https://marketplace.visualstudio.com/items?itemName=jsakamoto.xUnitCodeSnippets
+- https://marketplace.visualstudio.com/items?itemName=vs-publisher-2795.SnippetDesigner2022
+- https://marketplace.visualstudio.com/items?itemName=AlessandroDelSole.CodeSnippetStudio2022
+
+## Task Runner & Web Compiler
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebPackTaskRunner
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.NpmTaskRunner64
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommandTaskRunner64
+- https://marketplace.visualstudio.com/items?itemName=Failwyn.WebCompiler64
+
+## Code Alignment - Align Assignment
+- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.AlignAssignment2022
+- https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment
+
 ## Projects/Dependencies Graph.
 - https://marketplace.visualstudio.com/items?itemName=ChrisLovett.DgmlPowerTools2022
 - https://marketplace.visualstudio.com/items?itemName=DavidOliver.codeconnections
 
-## Upgrade and Port .NET Famework to .NET Core
+## Upgrade and Port .NET Framework to .NET Core
 - https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.upgradeassistant
 - https://marketplace.visualstudio.com/items?itemName=AWSPA.AWSPortingAssistant2022
 
@@ -257,7 +256,7 @@
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.SolutionErrorVisualizer2022 🟢
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.FixMixedTabs2022 🟢
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MatchMargin2022 🟢
-- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.TimeStampMargin2022
+- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.TimeStampMargin2022 🟢
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2022 🟢
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MiddleClickScroll2022
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.Double-ClickMaximize2022 🟢
