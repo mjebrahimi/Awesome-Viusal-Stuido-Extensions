@@ -44,8 +44,8 @@
 - https://marketplace.visualstudio.com/items?itemName=MerryYellow.Comment2GPT
 - https://marketplace.visualstudio.com/items?itemName=jefferson-pires.VisualChatGPTStudio
 - https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-visual-studio 🟢
-- https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs
-- https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSGitHubCopilot
+- https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs 🟢
+- https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSGitHubCopilot 🟢
 - https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc 🟢
 
 ## Git & Github
@@ -75,13 +75,13 @@
 - https://marketplace.visualstudio.com/items?itemName=OsirisTerje.Runsettings-19151
 
 ## Code Coverage
-- https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage2022
-- https://marketplace.visualstudio.com/items?itemName=ChrisDexter.RunCoverletReportVs2022
+- https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage2022 🟢
+- https://marketplace.visualstudio.com/items?itemName=ChrisDexter.RunCoverletReportVs2022 🟢
 
 ## HTML & JavaScript
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HTMLSnippetPack
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HTMLSnippetPack 🟢
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ZenCoding
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptSnippetPack
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptSnippetPack 🟢
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HtmlForJavascript
 - https://marketplace.visualstudio.com/items?itemName=sunilursmb.HTML5JavaScriptCharts-CanvasJS
 - https://marketplace.visualstudio.com/items?itemName=RichNewman.TypeScriptAnalyzerEslintPrettier
@@ -104,14 +104,14 @@
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CodeCleanupOnSave
 
 ## Entity Framework
-- https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools
-- https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator
+- https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools 🟢
+- https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator 🟢
 - https://marketplace.visualstudio.com/items?itemName=michaelsawczyn.EFDesigner2022
 - https://marketplace.visualstudio.com/items?itemName=Afrinoco.EfCoreUI13122023
 
 ## Database
-- https://marketplace.visualstudio.com/items?itemName=vs-publisher-306627.RedgateSQLSearch
-- https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox
+- https://marketplace.visualstudio.com/items?itemName=vs-publisher-306627.RedgateSQLSearch 🟢
+- https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox 🟢
 - https://marketplace.visualstudio.com/items?itemName=RojanskyS.NpgsqlPostgreSQLIntegration
 - https://marketplace.visualstudio.com/items?itemName=SolvSoftware.SSDT-Continuous-Deployment-Project-Template
 
@@ -141,7 +141,7 @@
 - https://marketplace.visualstudio.com/items?itemName=MichaelKissBG8.Supercharger22
 
 ## Error
-- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.SolutionErrorVisualizer2022
+- https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.SolutionErrorVisualizer2022 🟢
 - https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ErrorHelper
 
 ## Project Template
@@ -153,17 +153,17 @@
 - https://marketplace.visualstudio.com/items?itemName=nti-de.NuGet
 
 ## Visualizers
-- https://marketplace.visualstudio.com/items?itemName=vs-publisher-1232914.ReadableExpressionsVisualizers
+- https://marketplace.visualstudio.com/items?itemName=vs-publisher-1232914.ReadableExpressionsVisualizers 🟢
 - https://marketplace.visualstudio.com/items?itemName=Diagnostics.DiagnosticsConcurrencyVisualizer2022
 - https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer
 
 ## REST API Client Code Generator
-- https://marketplace.visualstudio.com/items?itemName=ChristianResmaHelle.ApiClientCodeGenerator2022
-- https://marketplace.visualstudio.com/items?itemName=Unchase.unchaseopenapiconnectedservicevs22
+- https://marketplace.visualstudio.com/items?itemName=ChristianResmaHelle.ApiClientCodeGenerator2022 🟢
+- https://marketplace.visualstudio.com/items?itemName=Unchase.unchaseopenapiconnectedservicevs22 🟢
 
 ## Serialization Attributor
-- https://marketplace.visualstudio.com/items?itemName=DanTurco.ProtoAttributor2022
-- https://marketplace.visualstudio.com/items?itemName=fwo-code.JsonPropAnalyz
+- https://marketplace.visualstudio.com/items?itemName=DanTurco.ProtoAttributor2022 🟢
+- https://marketplace.visualstudio.com/items?itemName=fwo-code.JsonPropAnalyz 🟢
 
 ## Json
 - https://marketplace.visualstudio.com/items?itemName=KentonStandard.JsonFormatter
@@ -223,10 +223,10 @@
 ### Editor
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.CopyAsHtml2022
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileDiffer
-- https://marketplace.visualstudio.com/items?itemName=ShemeerNS.FilePathOnFooter
+- https://marketplace.visualstudio.com/items?itemName=ShemeerNS.FilePathOnFooter 🟢
 - https://marketplace.visualstudio.com/items?itemName=SergeyVlasov.FixFileEncoding
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorEnhancements64
-- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2
+- https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2 🟢
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode 🟢
 - https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer 🟢
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CleanSolution
@@ -242,14 +242,14 @@
 - https://marketplace.visualstudio.com/items?itemName=formulahendry.CodeRunner
 - https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ClearMEFComponentCache
 - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs-2022
-- https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager
+- https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager 🟢
 - https://marketplace.visualstudio.com/items?itemName=BotBuilder.botbuilderv4
 - https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2022andLater 🟢
 - https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager
 - https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.VisualStudioEdgeDevTools
-- https://marketplace.visualstudio.com/items?itemName=ErlandR.ReAttach
+- https://marketplace.visualstudio.com/items?itemName=ErlandR.ReAttach 🟢
 - https://marketplace.visualstudio.com/items?itemName=PeterMacej.MultilineSearchandReplace
-- https://marketplace.visualstudio.com/items?itemName=csharpier.CSharpier
+- https://marketplace.visualstudio.com/items?itemName=csharpier.CSharpier 🟢
 - https://marketplace.visualstudio.com/items?itemName=OlegShilo.PyMap
 - https://marketplace.visualstudio.com/items?itemName=HRai.AutoSaveFile
 - https://marketplace.visualstudio.com/items?itemName=Failwyn.BundlerMinifier64
