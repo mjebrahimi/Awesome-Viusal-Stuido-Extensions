@@ -78,6 +78,7 @@
 - https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator 🟢
 - https://marketplace.visualstudio.com/items?itemName=michaelsawczyn.EFDesigner2022
 - https://marketplace.visualstudio.com/items?itemName=Afrinoco.EfCoreUI13122023
+- https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer 🟢
 
 ## Database
 - https://marketplace.visualstudio.com/items?itemName=vs-publisher-306627.RedgateSQLSearch 🟢
