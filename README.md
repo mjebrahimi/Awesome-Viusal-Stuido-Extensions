@@ -286,6 +286,12 @@
 - https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelinesPreview
 - https://marketplace.visualstudio.com/items?itemName=vs-publisher-1193210.IncrediBuild [https://www.incredibuild.com/product/windows]
 
+### To Test
+- MetaOutput 2022 https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.MetaOutput-2022
+- Trim Copy 2022 https://marketplace.visualstudio.com/items?itemName=emoacht.TrimCopy
+- Copy Nice (trim indents) https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CopyNice
+- Copy Git Link 2022 https://marketplace.visualstudio.com/items?itemName=EtienneBAUDOUX.CopyGitLink2022
+
 ## Todo
 - [ ] Categorize the remainings
 - [ ] Convert urls to links with the name of extensions
